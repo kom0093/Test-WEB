@@ -9,7 +9,7 @@ function Product() {
             <i class="fas fa-heart"></i>
                     </div>
             <div className="content-right">
-                    <h1>Zdraví na prvním místě</h1>
+                    <h1>Zdraví je prioritou</h1>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate quam in, omnis ullam non asperiores, Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate quam in, omnis ullam non asperiores, nobis sunt nulla a, reprehenderit ipsa fugiat doloribus ipsum velit eveniet nisi explicabo repellendus maiores? Lorem ipsum dolor sit amet consectetur adipisicing eli</p>
             </div>
         </div>
