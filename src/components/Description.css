@@ -1,0 +1,41 @@
+.item {
+    margin: 15px;
+    border: 5px black solid;
+    width: 50%;
+    height: 30%;
+    padding: 10px;
+    background-color: darkcyan;
+    display: flex;
+    flex-direction: column;
+    border-radius: 20px;
+    position: relative;
+    flex: 1;
+}
+
+.text-left {
+    width: 95%;
+    height: 30%;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    flex: 1;
+    align-items: center;
+}
+
+.column-wrapper {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    flex-flow: column;
+}
+
+@media only screen and ( max-width: 600px){
+    .text-left {
+     flex-direction: column;
+    }
+
+    .item {
+        width: 90%;
+    }
+}

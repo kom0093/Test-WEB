@@ -1,0 +1,20 @@
+{
+    "navbar": {
+        "home": "Domů",
+        "services": "Služby",
+        "products": "Produkty",
+        "contact": "Kontakt",
+        "watch-trailer": "Přehrát trailer",
+        "epic-dest": "Epické destinace",
+        "social-media": "Sociální sítě",
+        "sign-up": "Registrace",
+        "gallery": "Galerie",
+        "logo": "Cestování"
+    },
+
+    "home": {
+        "adventure-awaits": "Dobrodružství začíná",
+        "travel-with-us": "Cestujte a zažijte to pravé dobrodružství s námi",
+        "view-gallery": "Shlédnout galerii"
+    }
+}

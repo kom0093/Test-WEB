@@ -1,0 +1,30 @@
+.video {
+  position: relative;
+  padding-bottom: 56.25%;
+  
+  justify-content: flex-start;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+
+.bigDiv {
+    margin-bottom: 200px;
+}
+
+.video iframe {
+    position: absolute;
+    width: 70%;
+    height: 70%;
+}
+
+
+@media screen and (max-width: 768px) {
+    .video iframe{
+        width: 100%;
+        height: 100%;
+    }
+}
+
+

@@ -1,0 +1,20 @@
+{
+    "navbar": {
+        "home": "Home",
+        "services": "Services",
+        "products": "Products",
+        "contact": "Contact",
+        "watch-trailer": "Watch trailer",
+        "epic-dest": "Epic destinations",
+        "social-media": "Social media",
+        "sign-up": "Register",
+        "gallery": "Gallery",
+        "logo": "Travel"
+    },
+
+    "home": {
+        "adventure-awaits": "Adventure begins",
+        "travel-with-us": "Travel with us",
+        "view-gallery": "View gallery"
+    }
+}
